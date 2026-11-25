@@ -7,6 +7,7 @@ Each feature gets its own page, written from [templates/feature-doc-template.md]
 | Plan | [project-roadmap.md](project-roadmap.md) | Draft |
 | Architecture | [architecture/soc-architecture.jpg](architecture/soc-architecture.jpg) | Draft |
 | AES functional design | [aes/aes128-core-spec.md](aes/aes128-core-spec.md) | Draft v0.2 |
+| AES golden model | [aes/golden-model.md](aes/golden-model.md) | Done (Icarus) |
 | DFT planning | [dft/README.md](dft/README.md) | Not started |
 
 ## Planned feature pages (in order)
